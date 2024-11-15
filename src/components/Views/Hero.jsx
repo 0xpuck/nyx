@@ -73,7 +73,7 @@ function Hero() {
                     </p>
 
                     <div className="mt-[10px] xl:text-[55px] lg:text-[55px] md:text-[40px] sm:text-[30px] text-[26px] leading-9 sm:leading-loose md:leading-relaxed lg:leading-normal font-[VioletSans]">
-                      <p>Your Fully Autonomous</p>
+                      <p> Autonomous</p>
                       <p className="flex justify-start items-center">
                         <span>AI</span>
                         <span className="py-0 cornered text-center ml-4">
